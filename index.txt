@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中华经典诗文诵读比赛详情</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+            background-color: #f7f1e1;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+        }
+        header img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        header h1 {
+            font-size: 2rem;
+            color: #2c5f2d;
+            margin: 16px 0 8px;
+        }
+        header p.subtitle {
+            font-size: 1.2rem;
+            color: #8b5e3c;
+        }
+        section {
+            margin-top: 30px;
+        }
+        section h2 {
+            font-size: 1.5rem;
+            color: #2c5f2d;
+            border-left: 4px solid #8b5e3c;
+            padding-left: 8px;
+            margin-bottom: 12px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 8px;
+        }
+        .btn-apply {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #2c5f2d;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #777;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="poster.jpg" alt="中华经典诗文诵读比赛海报">
+            <h1>中华经典诗文诵读比赛方案</h1>
+            <p class="subtitle">文耀中华，赓续文脉</p>
+        </header>
+
+        <section>
+            <h2>一、大赛主题</h2>
+            <p>文耀中华，赓续文脉</p>
+        </section>
+
+        <section>
+            <h2>二、参赛要求</h2>
+            <ul>
+                <li>诵读内容应选自中国古代、近现代或当代具有社会影响力和典范价值的经典诗文与优秀图书内容（不含改编、网络作品及自创文本）。</li>
+                <li>诵读文本前后可酌情添加不超过200字的过渡语（计入总时长）。</li>
+                <li>鼓励在诵读基础上融合吟诵、音乐、服装等元素提升表现力。</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>三、参赛形式</h2>
+            <ul>
+                <li>个人参赛或组成2至5人团队参赛。</li>
+                <li>团队成员在比赛过程中不得更换或增加，且每人最多参与1项作品（个人或团队任选其一）。</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>四、比赛时间 &amp; 地点</h2>
+            <p>时间：2025年5月23日（星期五）</p>
+            <p>地点：2号教学楼203教室</p>
+        </section>
+
+        <section>
+            <h2>五、奖项设置</h2>
+            <ul>
+                <li>一等奖：2名，奖金600元</li>
+                <li>二等奖：4名，奖金400元</li>
+                <li>三等奖：6名，奖金300元</li>
+                <li>所有获奖选手将获得荣誉证书。</li>
+            </ul>
+        </section>
+
+        <section style="text-align: center; margin-top: 40px;">
+            <a href="https://example.com/contest-apply" class="btn-apply">立即报名</a>
+        </section>
+
+        <footer>
+            主办单位：文科教学部 &nbsp;|&nbsp; 发布日期：2025年3月29日
+        </footer>
+    </div>
+</body>
+</html>
